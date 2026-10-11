@@ -4,7 +4,7 @@ Send personalized emails automatically with Python SMTP & Gmail
 ## Video Tutorial 🎥
 This code is written step by step in my **Python Simplified** tutorial: 
 <br>
-**Send Emails with Python 📧 SMTP, Attachments & Personalization**.
+<a href="https://youtu.be/WA7GC9DP8tw" target="_blank">**Send Emails with Python 📧 SMTP, Attachments & Personalization**.</a>
 
 <a href="https://youtu.be/WA7GC9DP8tw" target="_blank"><img width="600" alt="Send Emails with Python SMTP Thumbnails" src="https://github.com/user-attachments/assets/49691bd6-5fcd-4ffc-98a2-ff873a39d34d" /></a>
 
